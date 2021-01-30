@@ -12,7 +12,7 @@
         <div style="text-align: center;"  class="row">
           <div class="shadow" style="background: #07689F; height:80px; width:100%">
             <div>
-              <h2 style="color: white; margin:0px; padding-top: 15px"><b>Seleksi Penerimaan Beasiswa Prestasi</b></h2>
+              <h2 style="color: white; margin:0px; padding-top: 15px"><b>Seleksi Penerimaan Beasiswa Berprestasi dan Kurang Mampu</b></h2>
             </div>
           </div>
         </div>
